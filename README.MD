@@ -2,7 +2,7 @@
 
 Yoshino-s 百度基础安全部
 
-Blog: https://blog.yoshino-s.online/
+Blog: https://blog.yoshino-s.xyz/
 
 ## 🔨 What did I did?
 
