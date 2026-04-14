@@ -1,6 +1,6 @@
 ## Who am I
 
-Yoshino-s 百度基础安全部
+Yoshino-s ByteDance
 
 Blog: https://blog.yoshino-s.xyz/
 
