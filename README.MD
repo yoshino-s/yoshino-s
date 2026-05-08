@@ -1,19 +1,8 @@
 ## Who am I
 
-Yoshino-s ByteDance
+Yoshino-s at ByteDance
 
 Blog: https://blog.yoshino-s.xyz/
-
-## 🔨 What did I did?
-
-<!-- 事实上一直在咕咕咕 -->
-
-### 🐞 CVEs
-
-CVE-2018-5771 Tenda AC6 Remote Command Execution  
-CVE-2021-21315 systeminformation Command Injection  
-CVE-2021-32736 thinkjs Prototype Pollution  
-CVE-2021-3918 json-schema Prototype Pollution  
 
 ### 🚩 Status
 
